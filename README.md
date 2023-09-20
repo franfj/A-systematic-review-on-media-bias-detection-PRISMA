@@ -31,4 +31,10 @@ While this repository primarily serves as a record of our systematic review, con
 
 ### Citation
 
-The associated paper for this systematic review is currently under peer review. Once the paper is (hopefully) published, this section will be updated with the appropriate citation details to reference the review. We encourage researchers and practitioners to cite our work when using or referencing the data and findings from this repository.
+```
+@article{RODRIGOGINES2023121641,
+	author = {Francisco-Javier Rodrigo-Gin{\'e}s and Jorge Carrillo-de-Albornoz and Laura Plaza},
+	journal = {Expert Systems with Applications},
+	title = {A systematic review on media bias detection: What is media bias, how it is expressed, and how to detect it},
+	year = {2023}}
+```
