@@ -32,9 +32,7 @@ While this repository primarily serves as a record of our systematic review, con
 ### Citation
 
 ```
-@article{RODRIGOGINES2023121641,
-	author = {Francisco-Javier Rodrigo-Gin{\'e}s and Jorge Carrillo-de-Albornoz and Laura Plaza},
-	journal = {Expert Systems with Applications},
-	title = {A systematic review on media bias detection: What is media bias, how it is expressed, and how to detect it},
-	year = {2023}}
+F.-J. Rodrigo-Ginés, J. Carrillo-de-Albornoz and L. Plaza, A systematic
+review on media bias detection: What is media bias, how it is expressed, and how to detect it.
+Expert Systems With Applications (2023), doi: https://doi.org/10.1016/j.eswa.2023.121641.
 ```
